@@ -12,3 +12,8 @@
 
 2. LDA 정리 : 토픽 모델링을 진행한 파일을 결과물로, 각 토픽마다 어느정도의 비중을 가지고 있는지를 숫자 형태로 표현한 코드입니다
 
+[논문 개제]
+데이터정보과학회 저널에 등재되었습니다. (제 1저자)
+https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11421081
+
+#강의평가, #에브리타임, #온라인 리뷰, #토픽모델링, #Course evaluation, #Everytime, #LDA, #online review, #topic modeling
